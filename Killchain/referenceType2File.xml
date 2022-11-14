@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>ec1b31d84e425c54ebd280c29f2e5538</guid>
+    <fileName>Assets/Scripts/CameraController.cs</fileName>
+    <timeStamp>2022-05-02T13:55:51.8923837+01:00</timeStamp>
+    <typeFullName>
+      <string>CameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f6d289c1d6e0ca479cb29f082ff24dc</guid>
+    <fileName>Assets/Scripts/EnemyControl.cs</fileName>
+    <timeStamp>2022-05-03T23:51:04.945425+01:00</timeStamp>
+    <typeFullName>
+      <string>EnemyControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c34630403a539844b18ba2c2d88704d</guid>
+    <fileName>Assets/Scripts/LevelController.cs</fileName>
+    <timeStamp>2022-05-02T18:05:53.1763716+01:00</timeStamp>
+    <typeFullName>
+      <string>LevelController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19148b03b1ed0ff4987c8ce2d64eaf67</guid>
+    <fileName>Assets/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2022-05-02T13:57:02.5505934+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2d40984bd2adf946a99d999f04224c7</guid>
+    <fileName>Assets/Scripts/ReloadingCircle.cs</fileName>
+    <timeStamp>2022-05-02T13:56:33.162054+01:00</timeStamp>
+    <typeFullName>
+      <string>ReloadingCircle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58cd8fcb4f7f685458f47dec999e635c</guid>
+    <fileName>Assets/Scripts/WeaponControl.cs</fileName>
+    <timeStamp>2022-05-02T17:43:16.5033535+01:00</timeStamp>
+    <typeFullName>
+      <string>WeaponControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>372105b1c34e97a43bb2dfd7e8232312</guid>
+    <fileName>Assets/Scripts/Menus/MainMenu.cs</fileName>
+    <timeStamp>2022-05-02T11:35:23.9998433+01:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7660521d5baeac41ab25838bd7d2aef</guid>
+    <fileName>Assets/Scripts/Menus/ScoreScreen.cs</fileName>
+    <timeStamp>2022-05-02T11:37:16.4931344+01:00</timeStamp>
+    <typeFullName>
+      <string>ScoreScreen</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8bd466fdcab92b346a464018db78556c</guid>
+    <fileName>Assets/Scripts/Menus/Settings.cs</fileName>
+    <timeStamp>2022-05-02T11:24:46.9095457+01:00</timeStamp>
+    <typeFullName>
+      <string>Settings</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd0fab830ac1e924ea730e0e79cf708c</guid>
+    <fileName>Assets/Scripts/Menus/WeaponChoice.cs</fileName>
+    <timeStamp>2022-05-02T11:43:19.5204905+01:00</timeStamp>
+    <typeFullName>
+      <string>WeaponChoice</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e6e522bd91dfb954c8e56d283a689d5f</guid>
+    <fileName>Assets/Scripts/Old Scripts/EnemyHealth.cs</fileName>
+    <timeStamp>2022-01-18T17:46:00.0675282+00:00</timeStamp>
+    <typeFullName>
+      <string>EnemyHealth</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b1ac98478a9b8d149a4c99c15e33a4bf</guid>
+    <fileName>Assets/Scripts/Old Scripts/NavMeshControl.cs</fileName>
+    <timeStamp>2022-01-21T13:59:19.9487052+00:00</timeStamp>
+    <typeFullName>
+      <string>NavMeshControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6c386e8a9a9bc14595741eb612aba5f</guid>
+    <fileName>Assets/Scripts/Old Scripts/Positions.cs</fileName>
+    <timeStamp>2022-04-24T16:01:41.746735+01:00</timeStamp>
+    <typeFullName>
+      <string>Positions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>54d5a84fa005294428b4e22d07eac7a1</guid>
+    <fileName>Assets/Scripts/Old Scripts/RaycastShoot.cs</fileName>
+    <timeStamp>2022-01-18T17:35:24.4720462+00:00</timeStamp>
+    <typeFullName>
+      <string>RaycastShoot</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bdeed078e4df514bbd7cdc69d26c4b2</guid>
+    <fileName>Assets/Scripts/Old Scripts/ShootingAI.cs</fileName>
+    <timeStamp>2022-01-21T12:38:51.8262631+00:00</timeStamp>
+    <typeFullName>
+      <string>ShootingAI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>42549a0c455aa0e4cb98e5a66c85723e</guid>
+    <fileName>Assets/Scripts/Old Scripts/Target.cs</fileName>
+    <timeStamp>2022-01-14T18:05:34.2807196+00:00</timeStamp>
+    <typeFullName>
+      <string>Target</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26ade131b155ec249bd68cb518f8d45e</guid>
+    <fileName>Assets/Scripts/Old Scripts/WeaponLooting.cs</fileName>
+    <timeStamp>2022-01-18T17:10:20.1333059+00:00</timeStamp>
+    <typeFullName>
+      <string>WeaponLooting</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d3a2e03c665830b42843e0fc495a3790</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-11-14T20:13:16.901872+00:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98891003e8e68e145a34a18999a09933</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-04-06T17:55:12+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a8fdce334a9dc0489454a4265ce114a</guid>
+    <fileName>Assets/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-04-06T17:55:12+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b330ab189cdca0943b965da15b64f72b</guid>
+    <fileName>Assets/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-04-06T17:55:12+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>285be3143bd7dfd4ba3694de01a8f4ce</guid>
+    <fileName>Assets/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-04-06T17:55:12+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a7a9d0e254cb3b440828852bfabdf834</guid>
+    <fileName>Assets/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-04-06T17:55:12+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
